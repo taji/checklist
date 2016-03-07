@@ -1,9 +1,7 @@
 checklist
 =========
 
-[![Gitter](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/jrpruit1/checklist?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
-
-Checklist web app for projects
+Checklist web app for projects - forked from JakePruitt.  I'm changing this to work with a single url rather than two urls. That way it can be developed and tested in the cloud9 ide. 
 
 Requirements
 ------------
